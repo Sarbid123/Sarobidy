@@ -29,7 +29,7 @@
                 title: "Notre test",
                 users: [
                     {
-                        name: "Sarobidy",
+                        name: "Sylvano",
                         age: 25,
                         bio: "Informaticien Expert",
                         showBio: false, 
